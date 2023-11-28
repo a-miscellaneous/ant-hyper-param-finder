@@ -23,3 +23,8 @@ Hyperparameter Relevanz:
 
 Trials:
 ![Trials](imgs/trials.png)
+
+Graphs:
+![Graphs](imgs/plot.png)
+![Lines](imgs/lines.png)
+![Progression](imgs/progression.png)
